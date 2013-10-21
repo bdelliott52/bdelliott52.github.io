@@ -1,0 +1,61 @@
+
+
+header {background-color: #000000;
+
+}
+
+body {
+
+   
+     
+    color: #000000;
+    background-color: #ffffff;
+    font-size: 20px;
+    
+}
+
+p {
+    margin-left: 20px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+}
+
+
+
+header {
+    
+    text-align: center;
+    font-size: 36px;
+ 
+}
+
+
+article h1 {
+    background-color: #3366cc;
+    color: #000000;
+    text-align: center;
+    font-size: 48px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+nav {
+    color: #606060;
+    background-color: #000000;
+    text-align: center;
+    font-size: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer{
+    text-align:center;
+    background-color: #000000;
+    color: #606060;
+}
+
+
+
+
+
+
