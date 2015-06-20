@@ -1,5 +1,4 @@
 
-
 header {
     
     background-color: #505050;
@@ -76,19 +75,19 @@ h1 {
 
 h2{
     background-color: #ffffff;
-    color: #000000;
+    color: #D2691E;
     font-size: 26px;
     margin-top: 0px;
     margin-bottom: 1px;
-    margin-left:20px;
-    font-family: Cambria
-	 
+    margin-left:5px;
+    font-family: Cambria;
+	
     
 }
 
 h3{
-	background-color: #000000;
-    
+	background-color: #ffffff;
+    color: #000000;
     font-size: 20px;
     margin-top: 0px;
     margin-bottom: 1px;
@@ -129,6 +128,7 @@ footer{
     color: #FFFFFF;
 }
 
+
 a {
 	
     text-decoration:none;
@@ -141,6 +141,18 @@ a:hover {
     color: #3366cc;
 }
 
+
+c {
+	
+    text-decoration:none;
+    color: #000000
+   
+}
+
+
+c:hover {
+    color: #3366cc;
+}
 
 
 
@@ -174,9 +186,3 @@ a:hover {
     
 
     
-
-
-
-
-
-
