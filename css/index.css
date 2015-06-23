@@ -3,10 +3,10 @@
 header {
     
     background-color: #505050;
-        font-family: Cambria, sans-serif;
+    font-family: Cambria, sans-serif;
     text-align: center;
     font-size: 0px;
- margin-top: -15px
+ 	margin-top: -15px;
 
 }
 
@@ -154,6 +154,7 @@ a:hover {
     h1 {
     text-align: center;
     font-size: 18px;
+		font-family: Cambria;
     }
 
     nav {
