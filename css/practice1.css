@@ -1,0 +1,181 @@
+header {
+    
+    background-color:  #000000;
+    font-family: calibri, calibri;
+    text-align: center;
+    font-size: 0px;
+ 	margin-top: -15px;
+
+}
+
+img   {
+    width: 100%;
+  
+}
+
+
+body {
+
+   
+    font-family:  calibri, calibri;
+    color: #0015FF;
+    background-color:  #000000; background: linear-gradient(to right, #000000, #ffffff 65%, #000000);
+    font-size: 20px;
+    
+}
+
+
+ul {
+	font-size: 20px;
+	font: 
+}
+#wrapper {
+    background-color:#ffffff; background: linear-gradient(to right, #000000, #ffffff 65%, #000000);
+    width 90%;
+    margin: 0 center;
+    padding-bottom: 5px;
+    color: #0015FF;
+	
+	
+}
+
+#box{
+    margin-left: 5%;
+    width: 90%;
+    margin-top: 5%;
+	
+}
+
+p {
+    color: #3366cc;;
+    margin-top:20px;
+    margin-left: 20px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+
+}
+
+#center {
+    text-align:
+        center;
+        
+
+} 
+
+#contentlink{
+	color: #0015FF;
+	
+}
+
+
+
+
+h1 {
+    background-color:  #0015FF; background: linear-gradient(to right, #000000, #ffffff 65%, #000000);
+    text-color: #0015FF;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    font-family: Cambria;
+    
+}
+
+h2{
+     background:  #0015FF; background: linear-gradient(to right, #000000, #ffffff 65%, #000000);
+    color: #0015FF;
+    font-size: 20px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    font-family: Cambria;
+	 
+    
+}
+
+h3{
+	background-color:  #0015FF;
+    
+    font-size: 17px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    font-family: Cambria;
+}
+
+ #nav {
+    font-family:calibri;
+    font-size: 26px;
+    display: table;
+    width: 100%;
+    margin: 0;
+    margin-left: -40px;
+
+    
+    
+}
+
+#nav li {
+
+    display: table-cell;
+    width: 25%;
+    line-height: 45px;
+    text-align: center;
+    background-color:  #000000; background: linear-gradient(to right, #000000, #ffffff 65%, #000000);
+    
+}
+
+
+
+
+
+footer{
+    text-align:center;
+    background-color: #000000;
+    color: #000000; background: linear-gradient(to right, #000000, #ffffff 65%, #000000);
+}
+
+a {
+	
+    text-decoration:none;
+    color: #000000
+   
+}
+
+
+a:hover {
+    color: #F7FF00;
+}
+
+
+
+
+
+@media screen and (max-width: 400px) {
+    
+    body {
+        padding: 3%
+    }
+
+    h1 {
+    text-align: center;
+    font-size: 20px;
+	font-family: calibri;
+    }
+
+    nav {
+    border: 0;
+    font-size: 20px;
+    width: 100%;
+	font-size: 20px;
+	font-family: calibri;
+}
+    
+    p {
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-bottom: 20px;
+        font-size: 16px;
+    }
+    
+
+}
+    

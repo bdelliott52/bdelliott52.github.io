@@ -1,8 +1,8 @@
 
 header {
     
-    background-color: #505050;
-        font-family: Cambria, sans-serif;
+    background-color: #000000; background: linear-gradient(to right, #000000, #ffffff 65%, #000000);;
+        font-family: Calibri, Calibri;
     text-align: center;
     font-size: 0px;
  margin-top: -15px
@@ -10,16 +10,16 @@ header {
 }
 
 img   {
-    width:90%;
+    width:100%;
     
 }
 
 body {
 
    
-    font-family:  Calibri, sans-serif;
-    color: #505050;
-    background-color: #505050;
+    font-family:  Calibri, Calibri;
+    color: #000000; background: linear-gradient(to right, #000000, #ffffff 65%, #000000);;
+    background-color: #000000; background: linear-gradient(to right, #000000, #ffffff 65%, #000000);;
     font-size: 20px;
     
 }
@@ -35,7 +35,8 @@ body {
 #box{
     margin-left: 5%;
     width: 90%;
-    
+    margin-top: 5%;
+	margin-bottom: 5%;
 }
 
 p {
@@ -69,7 +70,7 @@ h1 {
     font-size: 30px;
     margin-top: 0px;
     margin-bottom: 1px;
-    font-family: Cambria;
+    font-family: Calibri;
     
 }
 
@@ -80,7 +81,7 @@ h2{
     margin-top: 0px;
     margin-bottom: 1px;
     margin-left:5px;
-    font-family: Cambria;
+    font-family: Calibri;
 	
     
 }
@@ -93,11 +94,11 @@ h3{
     margin-bottom: 1px;
     margin-left:0px;
 	
-    font-family: Cambria
+    font-family: Calibri
 }
 
  #nav {
-    font-family: sans-serif;
+    font-family:calibri;
     font-size: 26px;
     display: table;
     width: 100%;
@@ -112,9 +113,9 @@ h3{
 
     display: table-cell;
     width: 25%;
-    line-height: 87px;
+    line-height: 45px;
     text-align: center;
-    background-color: #505050;
+    background-color: #000000; background: linear-gradient(to right, #000000, #ffffff 65%, #000000);;
     
 }
 
@@ -123,35 +124,36 @@ h3{
 
 
 footer{
+	
     text-align:center;
-    background-color: #505050;
-    color: #FFFFFF;
+    background-color: #000000; background: linear-gradient(to right, #000000, #ffffff 65%, #000000);;
+    color: #000000;
 }
 
 
 a {
 	
     text-decoration:none;
-    color: #FFFFFF
+    color: #000000;
    
 }
 
 
 a:hover {
-    color: #3366cc;
+    color: #F7FF00;
 }
 
 
 c {
 	
     text-decoration:none;
-    color: #000000
+    color: #000000;
    
 }
 
 
 c:hover {
-    color: #3366cc;
+    color: #F7FF00;
 }
 
 
