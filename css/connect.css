@@ -1,33 +1,22 @@
 
 header {
-    
     background-color: #505050;
-        font-family: Calibri, Calibri;
+    font-family: Calibri;
     text-align: center;
     font-size: 0px;
     margin-top: -15px;
-	
-	
-
-
 }
 
-
-
 body {
-
-   
-   font-family:  Calibri, Calibri;
+   font-family:  Calibri;
     color: #000000; background: linear-gradient(to right, #000000, #ffffff 65%, #000000);;
-    background-color: #000000; background: linear-gradient(to right, #000000, #ffffff 65%, #000000);;
+    background-color: #000000; background: linear-gradient(to right, #000000, #ffffff 65%, #000000);
     font-size: 20px;
 }
 
 #center {
     text-align:
         center;
-        
-
 } 
 
 #wrapper {
@@ -35,7 +24,6 @@ body {
     width 90%;
     margin: 0 center;
     padding-bottom: 5px;
-    
 }
 
 #box{
@@ -43,7 +31,6 @@ body {
     width: 90%;
 	margin-bottom: 5%;
 	margin-top: 5%;
-    
 }
 
 p {
@@ -52,10 +39,8 @@ p {
     margin-left: 20px;
     margin-right: 50px;
     margin-bottom: 20px;
-
+	text-align: center;
 }
-
-
 
 h1 {
     background-color: #3366cc;
@@ -65,56 +50,39 @@ h1 {
     margin-top: 0px;
     margin-bottom: 1px;
     font-family: Calibri;
-    
 }
 
-
  #nav {
-    font-family:calibri;
+    font-family:Calibri;
     font-size: 26px;
     display: table;
     width: 100%;
     margin: 0;
     margin-left: -40px;
-
-    
-    
 }
 
 #nav li {
-
     display: table-cell;
     width: 25%;
     line-height: 45px;
     text-align: center;
-    background-color: #000000; background: linear-gradient(to right, #000000, #ffffff 65%, #000000);;
-    
+    background-color: #000000; background: linear-gradient(to right, #000000, #ffffff 65%, #000000);
 }
-
-
-
-
 
 footer{
     text-align:center;
-    background-color: #000000; background: linear-gradient(to right, #000000, #ffffff 65%, #000000);;
+    background-color: #000000; background: linear-gradient(to right, #000000, #ffffff 65%, #000000);
     color: #000000;
 }
-
 
 a {
-	
     text-decoration:none;
     color: #000000;
-   
 }
-
 
 a:hover {
     color: #F7FF00;
 }
-
-
 
 @media screen and (max-width: 400px) {
     
@@ -146,9 +114,4 @@ a:hover {
 	}
 
 }
-    
-
-    
-
-
     

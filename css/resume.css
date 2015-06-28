@@ -1,27 +1,21 @@
 
 header {
-    
-    background-color: #000000; background: linear-gradient(to right, #000000, #ffffff 65%, #000000);;
-        font-family: Calibri, Calibri;
+    background-color: #000000; background: linear-gradient(to right, #000000, #ffffff 65%, #000000);
+    font-family: Calibri;
     text-align: center;
     font-size: 0px;
- margin-top: -15px
-
+    margin-top: -15px
 }
 
 img   {
     width:100%;
-    
 }
 
 body {
-
-   
-    font-family:  Calibri, Calibri;
+    font-family:  Calibri;
     color: #000000; background: linear-gradient(to right, #000000, #ffffff 65%, #000000);;
-    background-color: #000000; background: linear-gradient(to right, #000000, #ffffff 65%, #000000);;
+    background-color: #000000; background: linear-gradient(to right, #000000, #ffffff 65%, #000000);
     font-size: 20px;
-    
 }
 
 #wrapper {
@@ -29,7 +23,6 @@ body {
     width 90%;
     margin: 0 auto;
     padding-bottom: 5px;
-    
 }
 
 #box{
@@ -45,23 +38,16 @@ p {
     margin-left: 20px;
     margin-right: 50px;
     margin-bottom: 20px;
-
 }
 
 #center {
     text-align:
-        center;
-        
-
+        center;  
 } 
 
 #contentlink{
 	color: #OOOOOO;
-	
 }
-
-
-
 
 h1 {
     background-color: #3366cc;
@@ -71,7 +57,6 @@ h1 {
     margin-top: 0px;
     margin-bottom: 1px;
     font-family: Calibri;
-    
 }
 
 h2{
@@ -82,8 +67,6 @@ h2{
     margin-bottom: 1px;
     margin-left:5px;
     font-family: Calibri;
-	
-    
 }
 
 h3{
@@ -93,71 +76,49 @@ h3{
     margin-top: 0px;
     margin-bottom: 1px;
     margin-left:0px;
-	
-    font-family: Calibri
+    font-family: Calibri;
 }
 
  #nav {
-    font-family:calibri;
+    font-family: Calibri;
     font-size: 26px;
     display: table;
     width: 100%;
     margin: 0;
     margin-left: -40px;
-
-    
-    
 }
 
 #nav li {
-
     display: table-cell;
     width: 25%;
     line-height: 45px;
     text-align: center;
-    background-color: #000000; background: linear-gradient(to right, #000000, #ffffff 65%, #000000);;
-    
+    background-color: #000000; background: linear-gradient(to right, #000000, #ffffff 65%, #000000);
 }
-
-
-
-
 
 footer{
-	
     text-align:center;
-    background-color: #000000; background: linear-gradient(to right, #000000, #ffffff 65%, #000000);;
+    background-color: #000000; background: linear-gradient(to right, #000000, #ffffff 65%, #000000);
     color: #000000;
 }
-
 
 a {
-	
     text-decoration:none;
     color: #000000;
-   
 }
-
 
 a:hover {
     color: #F7FF00;
 }
 
-
 c {
-	
     text-decoration:none;
     color: #000000;
-   
 }
-
 
 c:hover {
     color: #F7FF00;
 }
-
-
-
 
 @media screen and (max-width: 400px) {
     
@@ -182,9 +143,6 @@ c:hover {
         margin-bottom: 20px;
         font-size: 16px;
     }
-    
 
 }
-    
-
     
