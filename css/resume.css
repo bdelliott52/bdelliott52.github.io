@@ -108,7 +108,7 @@ a {
 }
 
 a:hover {
-    color: #F7FF00;
+    color: #D2691E;
 }
 
 c {
@@ -117,7 +117,7 @@ c {
 }
 
 c:hover {
-    color: #F7FF00;
+    color: #3366cc;
 }
 
 @media screen and (max-width: 400px) {
