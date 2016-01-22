@@ -1,13 +1,29 @@
 header {
-    background-color:  #000000;
+     background-color: #000000; background: linear-gradient(to right, #000000, #ffffff 65%, #000000);
     font-family: Calibri;
     text-align: center;
     font-size: 0px;
- 	margin-top: -15px;
+    margin-top: -15px
 }
 
+#bg{
+	height: 1000px;
+	width: 100%;
+	
+}
 
-
+#content{
+	position:absolute;
+	width: 100%;
+	top: 20px;
+	padding: 0px;
+	color: #FFF;
+	text-align: center;
+    font-size: 0px;
+ 	margin-top: -15px;
+	
+	
+}
 body {
     font-family:  Calibri;
     color: #0015FF;

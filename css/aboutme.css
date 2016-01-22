@@ -1,44 +1,70 @@
 header {
-      background-color: #000000; background: linear-gradient(to right, #000000, #ffffff 65%, #000000);
+   background-color: #000000; background: linear-gradient(to right, #000000, #ffffff 65%, #000000);
     font-family: Calibri;
     text-align: center;
     font-size: 0px;
     margin-top: -15px
 }
 
+
 body {
-   font-family:  Calibri;
+    font-family:  Calibri;
     color: #000000; background: linear-gradient(to right, #000000, #ffffff 65%, #000000);;
     background-color: #000000; background: linear-gradient(to right, #000000, #ffffff 65%, #000000);
     font-size: 20px;
+	
 }
-
-#center {
-    text-align:
-        center;
-} 
 
 #wrapper {
+	float: left;
     background-color:#fff;
     width 90%;
-    margin: 0 center;
+    margin: 0 auto;
     padding-bottom: 5px;
+	
+	
 }
 
-#box{
-    margin-left: 5%;
+#box {
+    float: left;
+	margin-left: 5%;
     width: 90%;
+    margin-top: 5%;
 	margin-bottom: 5%;
-	margin-top: 5%;
+	text-align: left;
+	
 }
 
-p {
+
+
+  p  {
+	
     color: #000000;
     margin-top:8px;
     margin-left: 20px;
     margin-right: 50px;
     margin-bottom: 20px;
-	text-align: center;
+	padding-right: 10px;
+	text-align: left;
+}
+
+
+} 
+#portrait {
+ float: right;
+	color: #000000;
+    margin-top:8px;
+    margin-left: 20px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+	
+	
+
+	
+} 
+
+#contentlink{
+	color: #OOOOOO;
 }
 
 h1 {
@@ -51,8 +77,28 @@ h1 {
     font-family: Calibri;
 }
 
+h2{
+    background-color: #ffffff;
+    color: #D2691E;
+    font-size: 26px;
+    margin-top: 0px;
+    margin-bottom: 1px;
+    margin-left:5px;
+    font-family: Calibri;
+}
+
+h3{
+	background-color: #ffffff;
+    color: #000000;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 1px;
+    margin-left:0px;
+    font-family: Calibri;
+}
+
  #nav {
-    font-family:Calibri;
+    font-family: Calibri;
     font-size: 26px;
     display: table;
     width: 100%;
@@ -108,11 +154,6 @@ a:hover {
         margin-bottom: 20px;
         font-size: 16px;
     }
-    
-	nav 
-	{font-size: 14px;
-		
-	}
 
 }
     
