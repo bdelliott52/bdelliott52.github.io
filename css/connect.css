@@ -53,7 +53,7 @@ h1 {
 }
 
  #nav {
-    font-family:Calibri;
+    font-family:  "Calibri", "arial", sans-serif;
     font-size: 26px;
     display: table;
     width: 100%;
